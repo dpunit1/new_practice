@@ -8,12 +8,13 @@
   <name>consumerbanking</name>
   <url>http://maven.apache.org</url>
   <properties>
-          <maven.compiler.release>13</maven.compiler.release>
-  </properties>
-  <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
+  <properties>
+          <maven.compiler.release>13</maven.compiler.release>
+  </properties>
+  
   
   <build>
       <pluginManagement>
